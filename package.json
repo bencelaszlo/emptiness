@@ -1,7 +1,12 @@
 {
-  "name": "vite-typescript-pixijs-template",
+  "name": "emptiness",
+  "author": {
+    "name": "Bence László",
+    "email": "bence@bencelaszlo.hu",
+    "url": "https://bencelaszlo.hu"
+  },
   "private": true,
-  "version": "0.1.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
